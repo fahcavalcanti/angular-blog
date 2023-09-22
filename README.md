@@ -1,4 +1,4 @@
-# SPORTCAR Angular App
+# SPORTCAR Angular Blog
 
 Este é o README.md da aplicação SPORTCAR, uma aplicação Angular que oferece informações sobre carros esportivos e notícias relacionadas ao automobilismo.
 
@@ -38,7 +38,7 @@ Para usar a aplicação SPORTCAR, você deve ter o seguinte instalado em seu amb
 Siga estas etapas para instalar e executar a aplicação SPORTCAR em seu ambiente local:
 
 1. Clone este repositório para o seu computador:
-git clone https://github.com/fahcavalcanti/angular-blog
+git clone `https://github.com/fahcavalcanti/angular-blog`
 
 2. Navegue até o diretório da aplicação:
 cd angular-blog
@@ -78,4 +78,4 @@ ng serve
 
 ## Autor
 
-A aplicação SPORTCAR foi desenvolvida por Fabricio Cavalcanti como parte de um projeto de estudo por meio da DIO. Para obter mais informações ou entrar em contato, visite https://www.dio.me/users/fabriciocavalcanti97.
+A aplicação SPORTCAR foi desenvolvida por Fabricio Cavalcanti como parte de um projeto de estudo por meio da plataforma da DIO. Para obter mais informações ou entrar em contato, visite `https://www.dio.me/users/fabriciocavalcanti97.`
