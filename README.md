@@ -41,10 +41,9 @@ Siga estas etapas para instalar e executar a aplicação SPORTCAR em seu ambient
 git clone `https://github.com/fahcavalcanti/angular-blog`
 
 2. Navegue até o diretório da aplicação:
-cd angular-blog
+`cd angular-blog`
 
 3. Instale as dependências da aplicação:
-
 
 Aqui estão as dependências da aplicação:
 
@@ -72,7 +71,7 @@ Aqui estão as dependências da aplicação:
   "typescript": "~4.7.2"
 
 4. Inicie a aplicação:
-ng serve
+`ng serve`
 
 5. Abra um navegador da web e acesse `http://localhost:4200/` para visualizar a aplicação SPORTCAR em execução.
 
